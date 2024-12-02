@@ -1,0 +1,1 @@
+just use pip install argparse in cmd and then thats all the requirements
